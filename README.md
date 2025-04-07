@@ -35,7 +35,7 @@ Step 1: Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/advanced-word-counter.git
+(https://github.com/Kalwarohith/Word-counter).git
 cd advanced-word-counter
 Step 2: Run the script
 bash
