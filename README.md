@@ -114,7 +114,7 @@ Clone your forked copy:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/advanced-word-counter.git
+git clone https://github.com/Kalwarohith/Word-counter
 Create a new branch:
 
 bash
